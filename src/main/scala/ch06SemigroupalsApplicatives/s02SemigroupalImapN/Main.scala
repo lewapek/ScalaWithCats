@@ -30,7 +30,6 @@ object Main {
 
     println(garfield |+| heathcliff)
 
-
     println(Semigroupal[List].product(List(1, 2), List(3, 4)))
   }
 
